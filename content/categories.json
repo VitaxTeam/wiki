@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "slug": "informaciya",
+      "title": "Информация",
+      "isFolder": true
+    },
+    {
+      "slug": "fishki-servera",
+      "title": "Фишки сервера",
+      "icon": "sparkles"
+    },
+    {
+      "slug": "prochaya-ifnormaciya",
+      "title": "Прочая информация",
+      "isFolder": true
+    }
+  ]
+}
